@@ -1,2 +1,5 @@
 # hello-world
-2019/03/16
+
+Hello, nice to meet you.
+
+I want to be an interactive designer who can programming :-)
